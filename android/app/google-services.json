@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624128255483",
+    "project_id": "app-washi",
+    "storage_bucket": "app-washi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624128255483:android:26a30d2be0e37bd653d75e",
+        "android_client_info": {
+          "package_name": "com.example.project_by_washi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624128255483-f73tf5tgad8cr0neacor34g0dgken0pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGekdUZW6EQEo4XEjk1_ht_t6tnVX4Q4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624128255483-f73tf5tgad8cr0neacor34g0dgken0pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
