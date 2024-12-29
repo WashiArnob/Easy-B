@@ -61,7 +61,7 @@ class _SellDetailsState extends State<SellDetails> {
               Get.to(DailySellDetails());
             },
             style: ElevatedButton.styleFrom(
-              primary: Colors.blue,
+              backgroundColor: Colors.blue,
             ),
             child: ListTile(
               title: Text('Daily Sell'),
@@ -74,7 +74,7 @@ class _SellDetailsState extends State<SellDetails> {
                Get.to(WeeklySellDetails());
             },
             style: ElevatedButton.styleFrom(
-              primary: Colors.green,
+              backgroundColor: Colors.green,
             ),
             child: ListTile(
               title: Text('Weekly Sell'),
@@ -87,7 +87,7 @@ class _SellDetailsState extends State<SellDetails> {
                Get.to(MonthlySellDetails());
             },
             style: ElevatedButton.styleFrom(
-              primary: Colors.orange,
+              backgroundColor: Colors.orange,
             ),
             child: ListTile(
               title: Text('Monthly Sell'),

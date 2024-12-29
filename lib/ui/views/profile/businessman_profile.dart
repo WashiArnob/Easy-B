@@ -252,8 +252,7 @@ class _BusinessmanProfileState extends State<BusinessmanProfile> {
                     );
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.blue,
-                    onPrimary: Colors.white,
+                    foregroundColor: Colors.white, backgroundColor: Colors.blue,
                   ),
                   child: Text('Save Changes'),
                 ),

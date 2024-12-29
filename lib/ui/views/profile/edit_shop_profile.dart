@@ -131,7 +131,7 @@ class _EditShopProfileState extends State<EditShopProfile> {
                   updateShopProfile();
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.blue,
+                  backgroundColor: Colors.blue,
                   padding: EdgeInsets.symmetric(vertical: 15, horizontal: 10),
                 ),
                 child: Text(

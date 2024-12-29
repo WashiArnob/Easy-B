@@ -33,51 +33,19 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//new task
-//1.home page e weekly and daily sell total show korate hobe- done
-//2.home page e order collection er recent data show korate hobe -done
-//3.add button e click korle daily data show korabe -done
-//4.sell details page e daily/weekly/monthly data total shoho show korate hobe -done
-//5.drawer screen e shop er name firebase theke show korate hobe-done
-//6.edit shop profile screen e shop er photo update korte hobe-done
+//git repo update =
+// git add .
+// git commit -m"commit-msg"
+// git push -u origin main
+
+// git repo add =
+// git init
+// git status (optional)
+// git add .
+// git status (optional)
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/WashiArnob/My-App.git
+// git push -u origin main
 
 
-// {
-//   "project_info": {
-//     "project_number": "55915551582",
-//     "project_id": "app-by-washi",
-//     "storage_bucket": "app-by-washi.appspot.com"
-//   },
-//   "client": [
-//     {
-//       "client_info": {
-//         "mobilesdk_app_id": "1:55915551582:android:ffac9856960e0580970dcf",
-//         "android_client_info": {
-//           "package_name": "com.example.app_by_washi"
-//         }
-//       },
-//       "oauth_client": [
-//         {
-//           "client_id": "55915551582-l4eak0si7ngabq9rvqaufcduubkvlu3f.apps.googleusercontent.com",
-//           "client_type": 3
-//         }
-//       ],
-//       "api_key": [
-//         {
-//           "current_key": "AIzaSyCF89T3wm71t7MjaYRKgJsmcMM9XE-iRmk"
-//         }
-//       ],
-//       "services": {
-//         "appinvite_service": {
-//           "other_platform_oauth_client": [
-//             {
-//               "client_id": "55915551582-l4eak0si7ngabq9rvqaufcduubkvlu3f.apps.googleusercontent.com",
-//               "client_type": 3
-//             }
-//           ]
-//         }
-//       }
-//     }
-//   ],
-//   "configuration_version": "1"
-// }
